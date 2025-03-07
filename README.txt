@@ -14,3 +14,4 @@ Esta práctica se trata de un sencillo gestor de tareas. Este permite añadir, e
 
 ANOTACIONES
 - Puedes borrar una tarea manteniendola presionada.
+- Si tienes problemas con los paddings, margins... prueba en tu móvil.
