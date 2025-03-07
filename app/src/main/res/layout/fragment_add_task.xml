@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/backgroundColor">
+
+    <EditText
+        android:id="@+id/etTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/title_label"
+        android:backgroundTint="@color/textColorPrimary"/>
+
+    <EditText
+        android:id="@+id/etDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/description_label"
+        android:textColor="@color/textColorPrimary"
+        android:backgroundTint="@color/textColorPrimary"/>
+
+    <EditText
+        android:id="@+id/etImageUrl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/image_url_label"
+        android:textColor="@color/textColorPrimary"
+        android:backgroundTint="@color/textColorPrimary"/>
+
+    <EditText
+        android:id="@+id/etDetails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/task_detail_title"
+        android:inputType="textMultiLine"
+        android:maxLines="4"
+        android:padding="8dp"
+        android:textColor="@color/textColorPrimary"
+        android:backgroundTint="@color/textColorPrimary" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_save"
+        android:background="@color/buttonColor"
+        android:textColor="@color/buttonTextColor" />
+</LinearLayout>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Mi Aplicación</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_update">Actualizar</string>
+    <string name="btn_save_changes">Guardar Cambios</string>
+    <string name="fill_all_fields">Completa todos los campos</string>
+    <string name="user_not_found">Usuario no encontrado</string>
+    <string name="user_not_authenticated">Usuario no autenticado</string>
+    <string name="task_updated">Tarea actualizada</string>
+    <string name="title_label">Título</string>
+    <string name="description_label">Descripción</string>
+    <string name="details_label">Detalles</string>
+    <string name="image_url_label">URL de la Imagen</string>
+    <string name="task_detail_title">Detalles de la tarea</string>
+    <string name="no_tasks_available">No hay tareas disponibles</string>
+    <string name="title_required">El título es obligatorio</string>
+    <string name="description_required">La descripción es obligatoria</string>
+    <string name="image_url_required">La URL de la imagen es obligatoria</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Registrarse</string>
+    <string name="close_session">Cerrar sesión</string>
+    <string name="task_deleted">Tarea eliminada</string>
+    <string name="incorrect_password">Contraseña incorrecta</string>
+    <string name="user_registered">Usuario registrado</string>
+    <string name="user_already_exists">El usuario ya existe</string>
+</resources>
